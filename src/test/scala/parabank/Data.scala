@@ -4,9 +4,9 @@ object Data{
     val url= "https://parabank.parasoft.com/parabank/services/bank"
     val username = "christianeafit2025"
     val password = "demo"
-    val fromAccountId = "16341"
-    val toAccountId = "19005"
-    val amount = "1"
+    val fromAccountId = "16674"
+    val toAccountId = "16896"
+    val amount = "10"
 
 }
 
